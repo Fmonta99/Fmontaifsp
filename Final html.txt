@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <table border="1">
+         <body><h1>Exemplo de site(tabela)</h1></body>
+    <tr>
+        <td>Nome</td>
+        <td>Idade</td>
+        <td>Profissão</td>
+    </tr>
+    <tr>
+        <td>Joao</td>
+        <td>22</td>
+        <td>Estudante</td>
+    </tr>
+    <tr>
+        <td>Enrico</td>
+        <td>26</td>
+        <td>Designer</td>
+    </tr>
+    <tr>
+        <td>Fernando</td>
+        <td>22</td>
+        <td>Progamador</td>
+    <tr>
+        <td>Ana Beatriz</td>
+        <td>19</td>
+        <td>Baterista</td>
+</table>
+         <h1>Segundo tópico</h1>
+        <form action="/pagina-processa-dados-do-form" method="post">
+    <div>
+        <label for="nome">Nome: </label>
+        <input type="text" id="nome" name="usuario_nome" />
+    </div>
+     <div>
+        <label for="Sobrenome">Sobrenome:</label>
+        <input type="Sobrenome" id="Sobrenome" name="usuario_Sobrenome" />
+    </div>
+    <div>
+        <label for="Data de Nascimento">Data de Nascimento:</label>
+        <input type="Date" id="Data de Nascimento" name="usuario_Data de Nascimento" />
+    </div>
+    <div>
+        <label for="email">E-mail:</label>
+        <input type="email" id="email" name="usuario_email" />
+    </div>
+</form>
+        <!DOCTYPE html>
+    <html>
+        <head>
+            <meta charset="utf-8">
+            <title>Título forte</title>
+        </head>
+            <body>
+                <h1>Exemplo de imagem</h1>
+                <h2>Quasar</h2>
+                <img src="http://cdn.eso.org/images/screen/eso2103a.jpg" width="25%"><br><br>
+                <h2>Buraco Negro (interstelar) </h2>
+                <img src="https://t.ctcdn.com.br/ntLDTeSz7N8dMZgpaHAbfH_zQQE=/1280x720/smart/i330609.jpeg" width="25%">
+                <h2>Pulsar</h2>
+                <img src="https://s5.static.brasilescola.uol.com.br/be/2020/12/magnetar.jpg" width="25%">
+
+
+        </body>
+    </html>
